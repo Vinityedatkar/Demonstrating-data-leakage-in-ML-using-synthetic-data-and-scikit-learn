@@ -17,6 +17,13 @@ and 5,000 random features each):
 
 The labels were generated independently of the features. The data are
 synthetic and do not represent real patients or clinical diagnoses.
+## Visual results
+
+### AUC across 10 random seeds
+![AUC by random seed](auc_by_seed.png)
+
+### Mean AUC comparison
+![Mean AUC comparison](mean_auc_comparison.png)
 
 ## Methods
 
