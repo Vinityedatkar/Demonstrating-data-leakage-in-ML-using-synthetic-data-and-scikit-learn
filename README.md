@@ -72,8 +72,8 @@ demonstration; it does not prove the model's performance is exactly 0.5.
 
 ## Files
 
--   `figures/auc_by_seed.png`: AUC by random seed.
--   `figures/mean_auc_comparison.png`: Mean AUC comparison.
+`auc_by_seed.png`
+`mean_auc_comparison.png`
 
 ## Reproducibility
 
